@@ -60,3 +60,9 @@ The font includes **two versions** of the script: the **_crossed_** version and 
 The script that the font represents was created by [Finji](https://finji.co/) for the game [Tunic](https://tunicgame.com/).
 
 This font was created with much :heart: by [Adrián Jiménez Pascual](https://dirdam.github.io/), which means he took the time to design the characters in a font editor and upload the result to the internet for anyone to use. He also took the liberty to add some glyphs not included in Tunic's original script—some punctuation glyphs—, so feel free to either use them or not.
+
+If you use this font for any non-private purpose please give credit as follows:
+```
+Original script by Finji for the game Tunic.
+Font by Adrián Jiménez Pascual (dirdam.github.io).
+```
