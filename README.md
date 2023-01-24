@@ -2,9 +2,9 @@
 
 ¡¡¡**PLEASE READ** this file before accessing the fonts since some contain **SPOILERS**!!!
 
-These fonts have been created with [Glyphs Mini](https://glyphsapp.com/buy) and are meant to be **freely** used by anyone who wants to write in the target scripts.
+These fonts have been created with [Glyphs Mini](https://glyphsapp.com/buy) and they are meant to be **freely** used by anyone who wants to write in the target scripts.
 
-If you make use of any of these fonts other than private please give me credit as follows:
+The fonts are licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). If you make use of any of these fonts please give me credit as follows:
 ```
 Font by Adrián Jiménez Pascual (dirdam.github.io).
 ```
