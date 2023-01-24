@@ -53,7 +53,7 @@ The font includes **two versions** of the script: the **_crossed_** version and 
 |fairy|/fɛri/|`fer` `cii`|![image](https://user-images.githubusercontent.com/20274494/214179788-bd03f941-5fc0-4d40-879c-6c3aac960618.png)|![image](https://user-images.githubusercontent.com/20274494/214179853-01a839c8-889a-4e68-8c0a-70c9e499babd.png)|
 |of|/ɒv/|`va_`|![image](https://user-images.githubusercontent.com/20274494/214180143-4fbb673e-a232-4c25-bc70-5876f40641cb.png)|![image](https://user-images.githubusercontent.com/20274494/214180176-5f50127f-5325-4896-b30a-9480f1486e9d.png)|
 |open|/oʊpən/|`pou_` `ne_`|![image](https://user-images.githubusercontent.com/20274494/214179998-fe107435-d970-447d-ad12-c9f3ae589ec4.png)|![image](https://user-images.githubusercontent.com/20274494/214180044-d1e24fd0-52bd-4b7b-9418-a852499167ad.png)|
-|the far shore|/ðʌ fʌr ʃɔr/|`dha` ` ` `far` ` ` `shor`|![image](https://user-images.githubusercontent.com/20274494/214189244-0be8c4b7-821b-4958-b4bf-1b6434450e1c.png)|![image](https://user-images.githubusercontent.com/20274494/214189343-76431347-6bd3-47d7-a34e-0ec926bd9761.png)|
+|the far shore|/ðə fɑr ʃɔr/|`dha` ` ` `far` ` ` `shor`|![image](https://user-images.githubusercontent.com/20274494/214189244-0be8c4b7-821b-4958-b4bf-1b6434450e1c.png)|![image](https://user-images.githubusercontent.com/20274494/214189343-76431347-6bd3-47d7-a34e-0ec926bd9761.png)|
 
 ## Credits
 
