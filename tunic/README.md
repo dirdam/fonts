@@ -38,7 +38,7 @@ Following the logic in Tunic's language, syllables are always writen in a **CV**
 - To start a syllable with a vowel, type **`c`** or **`C`** (for empty consontant) before typing the vowel.
 - For syllable inversion (circle under syllable), type the syllable as **CV** an add **`_`** or **`-`** at the end.
 - The space (` `) creates a space between words.
-- If a word contains a sequence of characters that accidentally combine when they shouldn't (e.g. t and h in "hothead"), adding **`c`** in between them would split them apart, so e.g. "hothead" would be typed out as "hotched"
+- If a word contains a sequence of characters that accidentally combine when they shouldn't (e.g. "s" and "h" in "mishear"), adding **`c`** in between them would split them apart, so e.g. "mishear" would be typed out as `mischir`.
 
 The font includes **two versions** of the script: the **_crossed_** version and the **_uncrossed_** version.
 - To write the **_crossed_** version type in **lower case**.
