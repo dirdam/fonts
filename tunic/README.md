@@ -30,6 +30,14 @@ Vowels may include **`r`** as ending consonant.
 
 ![image](https://user-images.githubusercontent.com/20274494/214020979-b9086137-3fd0-4223-b5b0-09cca8d1002a.png)
 
+### Numbers (extended version)
+
+**Disclaimer**: these numbers are **not** part of the game. I unofficially created them to _complete_ the script just for fun.
+
+If you would like to use them please download the file `Tunic-extended.oft`.
+
+![image](https://user-images.githubusercontent.com/20274494/215238360-f04d5dba-2dde-49ef-8674-36c833dcead2.png)
+
 ## How to use the font
 
 Following the logic in Tunic's language, syllables are always writen in a **CV** (**C**onsonant-**V**owel) fashion.
@@ -60,7 +68,7 @@ The font includes **two versions** of the script: the **_crossed_** version and 
 
 The script that the font represents was created by Andrew Shouldice and the [Finji](https://finji.co/) team for the game [Tunic](https://tunicgame.com/).
 
-This font was created with much :heart: by [Adrián Jiménez Pascual](https://dirdam.github.io/). He took the liberty to add some glyphs not included in Tunic's original script—some punctuation glyphs—, so feel free to either use them or not.
+This font was created with much :heart: by [Adrián Jiménez Pascual](https://dirdam.github.io/). He took the liberty to add some glyphs not included in Tunic's original script—some punctuation glyphs and the numbers in the extended version—, so feel free to either use them or not.
 
 The font is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). If you use this font please give credit as follows:
 ```
