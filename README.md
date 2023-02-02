@@ -11,7 +11,8 @@ Font by Adrián Jiménez Pascual (dirdam.github.io).
 
 Currently, the following fonts are available:
 |Font name|Description|Contains spoilers[^1]|
-|-|-|-|
-|[Tunic](https://github.com/dirdam/fonts/tree/main/tunic)|Font of the language that appears in the videogame [Tunic](https://tunicgame.com/)|YES|
+|:-:|-|:-:|
+|[Sheikah](https://github.com/dirdam/fonts/tree/main/zelda)|Font of the language that appears in the shrines and other Sheikah artifacts of the videogame [The Legend of Zelda - Breath of the Wild](https://www.zelda.com/breath-of-the-wild/).|YES|
+|[Tunic](https://github.com/dirdam/fonts/tree/main/tunic)|Font of the language that appears in the videogame [Tunic](https://tunicgame.com/).|YES|
 
 [^1]: In some games deciphering the language is part of the journey. Please read the content at your own risk.
