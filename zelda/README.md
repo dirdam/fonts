@@ -7,7 +7,7 @@
 
 ## How to install the fonts
 
-1. Download font: [Ancient Hylian](https://github.com/dirdam/fonts/raw/main/zelda/AncientHylian.otf) (or click on the `otf` file).
+1. Download font: [Sheikah](https://github.com/dirdam/fonts/raw/main/zelda/Sheikah.otf) (or click on the `otf` file).
 2. Install the font on your system ( [Windows](https://support.microsoft.com/en-us/office/add-a-font-b7c5f17c-4426-4b53-967f-455339c564c1) | [Mac](https://support.apple.com/en-us/HT201749) ).
 
 ## Font glyphs
@@ -22,11 +22,11 @@
 
 ## How to use the font
 
-_Ancient Hylian_ is only a script for the latin alphabet and the arabic numerals, so one only needs to type as usually would.
+_Sheikah_ is only a script for the latin alphabet and the arabic numerals, so one only needs to type as usually would.
 
 Both _upper case_ and _lower case_ print the same characters.
 
-|Sample word|Ancient Hylian|
+|Sample word|Sheikah|
 |-|:-:|
 |hello|![image](https://user-images.githubusercontent.com/20274494/216273990-24806802-e743-455a-9485-b209d7f70ec5.png)|
 |world|![image](https://user-images.githubusercontent.com/20274494/216274277-ffd9ad77-6579-4a18-afb0-692d918e4ef5.png)|
