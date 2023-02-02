@@ -1,4 +1,4 @@
-# Zelda
+# The Legend of Zelda
 
 1. [How to install the fonts](#how-to-install-the-fonts)
 2. [Font glyphs](#font-glyphs)
@@ -14,11 +14,11 @@
 
 ### Alphabet
 
-
+![image](https://user-images.githubusercontent.com/20274494/216272512-c00b1267-bd8d-4a58-a578-f663ac360881.png)
 
 ### Numbers and punctuation
 
-
+![image](https://user-images.githubusercontent.com/20274494/216272888-a1b8c5eb-abcc-4f0c-83f6-5f978ad4cf3f.png)
 
 ## How to use the font
 
@@ -28,11 +28,11 @@ Both _upper case_ and _lower case_ print the same characters.
 
 |Sample word|Ancient Hylian|
 |-|:-:|
-|hello||
-|world||
-|region||
-|artifact||
-|thermometer||
+|hello|![image](https://user-images.githubusercontent.com/20274494/216273990-24806802-e743-455a-9485-b209d7f70ec5.png)|
+|world|![image](https://user-images.githubusercontent.com/20274494/216274277-ffd9ad77-6579-4a18-afb0-692d918e4ef5.png)|
+|region|![image](https://user-images.githubusercontent.com/20274494/216274381-258d72e6-ce3c-4c9b-8c56-4c328a221bac.png)|
+|artifact|![image](https://user-images.githubusercontent.com/20274494/216274510-8b0b704a-772f-4a83-abed-b69c9b906d69.png)|
+|thermometer|![image](https://user-images.githubusercontent.com/20274494/216274622-e35d7751-9ea3-4c1b-ad5c-de74696c8714.png)|
 
 ## Credits
 
