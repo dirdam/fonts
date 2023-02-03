@@ -16,19 +16,27 @@
 
 #### Boundless
 
+This alphabet is the one used in the game.
+
 ![image](https://user-images.githubusercontent.com/20274494/216529015-6278e0e7-3a9d-4e34-aac4-f563f0f595c1.png)
 
 #### Bounded
+
+This alphabet is an extension of the **_boundless_** one. The characters are delimited by an outer frame. This is how we would write the characters if we were to write them by hand.
 
 ![image](https://user-images.githubusercontent.com/20274494/216529062-1902289a-3033-4cff-bfff-418176c47230.png)
 
 ### Numbers
 
+**_Standard numbers_** and **_alternative numbers_**, together with the equal sign.
+
 ![image](https://user-images.githubusercontent.com/20274494/216529110-ffc8ed55-96c6-4fd1-a7ce-978911292b67.png)
 
 ### Inputs
 
-The inputs are typed using `t` as for `tetrominoes`. So they can be read `tetromino 1`, `tetromino 2` and so on.
+These are the glyphs used to indicate which combination of buttons we should press. In this font they have been designed in their _horizontal_ style, even though in the game they are originally displayed vertically. 
+
+The glyphs are named starting with `t` (for [_tetromino_](https://en.wikipedia.org/wiki/Tetromino)).
 
 ![image](https://user-images.githubusercontent.com/20274494/216532766-69fa9bd8-f55d-48f6-be40-2ee256691be6.png)
 
@@ -37,7 +45,7 @@ The inputs are typed using `t` as for `tetrominoes`. So they can be read `tetrom
 The script used in _Fez_ is only a script for the latin alphabet and the arabic numerals, so one only needs to type as usually would.
 
 - The space (` `) creates a space between words.
-- To type the _alternative numbers_ and the _inputs_ type the ligatures in the description (e.g. `1+2`, `t3`).
+- To write the **_alternative numbers_** and the **_inputs_** type the ligatures in the description (e.g. `1+2`, `t3`).
 - If you want to break a ligature (e.g. write "1" and "0" as separate characters instead of the character for "10") insert a `.` or `,` in between.
 
 The font includes **two versions** of the alphabet: the **_boundless_** version and the **_bounded_** version.
