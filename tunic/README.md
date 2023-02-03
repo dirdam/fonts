@@ -54,7 +54,7 @@ The font includes **two versions** of the script: the **_crossed_** version and 
 
 |Sample word|[IPA](https://en.wiktionary.org/wiki/Wiktionary:IPA_pronunciation_key)|How to type|Crossed result|Uncrossed result|
 |-|-|-|:-:|:-:|
-|hello|/hɛloʊ/|`he` `lou`|![image](https://user-images.githubusercontent.com/20274494/214054367-7c6cd7a4-be24-4011-aced-4bedcd85677c.png)|![image](https://user-images.githubusercontent.com/20274494/214054432-1bf70958-4035-4cd1-b74d-12ee366dc3d1.png)||
+|hello|/hɛloʊ/|`he` `lou`|![image](https://user-images.githubusercontent.com/20274494/214054367-7c6cd7a4-be24-4011-aced-4bedcd85677c.png)|![image](https://user-images.githubusercontent.com/20274494/214054432-1bf70958-4035-4cd1-b74d-12ee366dc3d1.png)|
 |world|/wɜːrld/|`wxr` `l` `d`|![image](https://user-images.githubusercontent.com/20274494/214180365-f7b7d2c8-b776-4d5f-91c7-fee279607b4a.png)|![image](https://user-images.githubusercontent.com/20274494/214180387-baabef3c-a2ab-4986-b462-034878bf2c9c.png)|
 |wisdom|/wɪzdʌm/|`wi` `z` `da` `m`|![image](https://user-images.githubusercontent.com/20274494/214180430-2c9b7cb5-9097-4498-a91c-3bbc2bd51053.png)|![image](https://user-images.githubusercontent.com/20274494/214180467-d2a8a4e3-534e-4876-8732-24de8640d0fe.png)|
 |future|/fjuːtʃər/|`f` `yu` `chxr`|![image](https://user-images.githubusercontent.com/20274494/214180331-31f55d5c-d766-4480-ae95-7afee2794879.png)|![image](https://user-images.githubusercontent.com/20274494/214180299-9137ccf6-c4d5-4d49-8d0e-6ba0eaa78142.png)|
