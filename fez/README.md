@@ -59,8 +59,8 @@ The font includes **two versions** of the alphabet: the **_boundless_** version 
 |world|`world`|![image](https://user-images.githubusercontent.com/20274494/216531532-7222f114-dfc6-4c1e-be7d-8861c0f5ac8f.png)|![image](https://user-images.githubusercontent.com/20274494/216530949-8660b27d-cb1a-48d1-babf-5d2cda363bf7.png)|
 |today|`today`|![image](https://user-images.githubusercontent.com/20274494/216531489-a9978e6f-82a9-4cf1-bba6-b39147277796.png)|![image](https://user-images.githubusercontent.com/20274494/216530982-58cb63e5-03cd-49d7-b500-99351890e21c.png)|
 |understand|`understand`|![image](https://user-images.githubusercontent.com/20274494/216531355-40f40271-458a-4371-bc48-16271f70d49f.png)|![image](https://user-images.githubusercontent.com/20274494/216531028-9ce7bc61-aba3-4f90-b5c4-bb016654aca5.png)|
-|1 2 7 = 10|`127=10`|---|![image](https://user-images.githubusercontent.com/20274494/216531113-370d5477-c1d8-416c-8965-e8a9a58e2fcc.png)|
-|6&emsp;_alt_(6)|`6 1+5`|---|![image](https://user-images.githubusercontent.com/20274494/219538780-1d4d60ac-cf28-421c-8a2b-18e63e243261.png)|
+|1 2 7 = 10|`1` `2` `7` `=` `10`|---|![image](https://user-images.githubusercontent.com/20274494/216531113-370d5477-c1d8-416c-8965-e8a9a58e2fcc.png)|
+|6&emsp;_alt_(6)|`6` ` ` `1+5`|---|![image](https://user-images.githubusercontent.com/20274494/219538780-1d4d60ac-cf28-421c-8a2b-18e63e243261.png)|
 |↑ ← RT A LT → A ↓|`tU` `tL` `tS` `tO` `tZ` `tR` `tO` `tD`|![image](https://user-images.githubusercontent.com/20274494/216532955-0969e2f3-8d1c-4c91-ac7a-bdc0b4611b3f.png)|---|
 
 ## Credits
