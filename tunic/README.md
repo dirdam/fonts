@@ -30,6 +30,25 @@ Vowels may include **`r`** as ending consonant.
 
 ![image](https://user-images.githubusercontent.com/20274494/214020979-b9086137-3fd0-4223-b5b0-09cca8d1002a.png)
 
+### Symbols
+
+These symbols do not represent glyphs in the language, but they are used contextually as part of some messages.
+
+To write them simply type `:` + `icon_name` + `:`.
+
+![image](https://user-images.githubusercontent.com/20274494/232192857-1910d4a4-2781-482a-b2c1-9f2133aa17f7.png)
+
+
+<details>
+  <summary>Click here <em>only if you have solved <b>page 49</b></em> in the manual.</summary>
+  <br>
+  You can also reveal the <code>:goldenpath:</code>.
+  <br><br>
+  
+  ![image](https://user-images.githubusercontent.com/20274494/232194082-d08e9177-227d-4c1a-9d91-02cd0d8030be.png)
+  <br>
+</details>
+
 ### Numbers (extended version)
 
 **Disclaimer**: these numbers are **not** part of the game. I unofficially created them to _complete_ the script just for fun.
