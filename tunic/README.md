@@ -9,6 +9,7 @@
 
 1. Download font [here](https://github.com/dirdam/fonts/raw/main/tunic/Tunic.otf) (or click on the file `Tunic.oft`).
 2. Install the font on your system ( [Windows](https://support.microsoft.com/en-us/office/add-a-font-b7c5f17c-4426-4b53-967f-455339c564c1) | [Mac](https://support.apple.com/en-us/HT201749) ).
+    1. Allow ligatures in Microsoft Word: _Format_ > _Font_ > _Advanced_ > _Ligatures: All_
 
 ## Font glyphs
 
