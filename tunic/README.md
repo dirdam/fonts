@@ -2,6 +2,12 @@
 
 1. [How to install the font](#how-to-install-the-font)
 2. [Font glyphs](#font-glyphs)
+    1. [Vowels](#vowels)
+    2. [Consonants](#consonants)
+    3. [Punctuation](#punctuation)
+    4. [Symbols](#symbols)
+    5. [Cards](#cards)
+    6. [Numbers \(Extension\)](#numbers-extension)
 3. [How to use the font](#how-to-use-the-font)
 4. [Credits](#credits)
 
@@ -35,7 +41,7 @@ Vowels may include **`r`** as ending consonant.
 
 These symbols do not represent glyphs in the language, but they are used contextually as part of some messages.
 
-To write them simply type `:` + `icon_name` + `:`.
+To write them simply type `:` + _`[icon_name]`_ + `:`.
 
 ![image](https://user-images.githubusercontent.com/20274494/232192857-1910d4a4-2781-482a-b2c1-9f2133aa17f7.png)
 
@@ -50,11 +56,17 @@ To write them simply type `:` + `icon_name` + `:`.
   <br>
 </details>
 
-### Numbers (extended version)
+### Cards
+
+These cards appear in <b>page 51</b>.
+
+To write them simply type `:card` + _`[card_name_initials]`_ + `:`.
+
+![image](https://github.com/dirdam/fonts/assets/20274494/fffbe51e-6541-4b59-bba4-7da242e5d2fc)
+
+### Numbers (extension)
 
 **Disclaimer**: these numbers are **not** part of the game. I unofficially created them to _complete_ the script just for fun.
-
-If you would like to use them please download the file `Tunic-extended.oft`.
 
 ![image](https://user-images.githubusercontent.com/20274494/215238360-f04d5dba-2dde-49ef-8674-36c833dcead2.png)
 
