@@ -64,6 +64,17 @@ To write them simply type `:card` + _`[card_name_initials]`_ + `:`.
 
 ![image](https://github.com/dirdam/fonts/assets/20274494/fffbe51e-6541-4b59-bba4-7da242e5d2fc)
 
+
+<details>
+  <summary>Click here to uncover the <em>extra card</em> found during the game.</summary>
+  <br>  
+  
+  ![image](https://github.com/dirdam/fonts/assets/20274494/c5055cd5-122f-4e89-9a15-90b30393fde7)
+  <br>
+</details>
+
+
+
 ### Numbers (extension)
 
 **Disclaimer**: these numbers are **not** part of the game. I unofficially created them to _complete_ the script just for fun.
