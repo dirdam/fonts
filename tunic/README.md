@@ -10,6 +10,7 @@
     6. [Numbers \(Extension\)](#numbers-extension)
 3. [How to use the font](#how-to-use-the-font)
 4. [Credits](#credits)
+5. [Cheat sheet](#cheat-sheet)
 
 ## How to install the font
 
@@ -118,3 +119,9 @@ The font is licensed under [Creative Commons Attribution 4.0 International Licen
 Original script by Andrew Shouldice for the game Tunic.
 Font by Adrián Jiménez Pascual (dirdam.github.io).
 ```
+
+## Cheat sheet
+
+Quick references for people already using the font. Download PDF [here](https://github.com/dirdam/fonts/raw/main/tunic/Tunic%20cheat%20sheet.pdf).
+
+![image](https://github.com/dirdam/fonts/assets/20274494/35cafe81-8b4c-412f-829e-c2c0e3bbcbdb)
