@@ -18,6 +18,10 @@ Currently, the following fonts are available:
 
 [^1]: In some games deciphering the language is part of the journey. Please read the content at your own risk.
 
+## Requests
+
+If you are a game creator or a conlang enthusiast and want to create a font for your language, you can contact me and I will give you a quote. Contact [here](https://dirdam.github.io/contact.html).
+
 ## Support 
 
 You can support my _**free**_ work by making a donation. Thank you! ❤️
