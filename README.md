@@ -17,3 +17,9 @@ Currently, the following fonts are available:
 |[Tunic](https://github.com/dirdam/fonts/tree/main/tunic)|Font of the language that appears in the videogame [Tunic](https://tunicgame.com/).|YES|
 
 [^1]: In some games deciphering the language is part of the journey. Please read the content at your own risk.
+
+## Support 
+
+You can support my _**free**_ work by making a donation. Thank you! ❤️
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?business=EAJPW5BWKGRP6&currency_code=EUR&item_name=All+this%2C+for+free.+You+deserve+a+tip%21+Keep+up+the+good+work%21)
