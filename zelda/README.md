@@ -62,7 +62,7 @@ The scripts that the fonts represent were created by Nintendo for the game [The 
 
 The fonts here presented were created with much :heart: by [Adrián Jiménez Pascual](https://dirdam.github.io/).
 
-These fonts is licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). If you use these fonts please give credit as follows:
+These fonts are licensed under [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/). If you use these fonts please give credit as follows:
 ```
 Original script by Nintendo for the game The Legend of Zelda: Breath of the Wild.
 Font by Adrián Jiménez Pascual (dirdam.github.io).
