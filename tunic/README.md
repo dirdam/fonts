@@ -120,6 +120,12 @@ Original script by Andrew Shouldice for the game Tunic.
 Font by Adrián Jiménez Pascual (dirdam.github.io).
 ```
 
+## Support 
+
+You can support my _**free**_ work by making a donation. Thank you! ❤️
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate?business=EAJPW5BWKGRP6&currency_code=EUR&item_name=All+this%2C+for+free.+You+deserve+a+tip%21+Keep+up+the+good+work%21)
+
 ## Cheat sheet
 
 Quick references for people already using the font. Download PDF [here](https://github.com/dirdam/fonts/raw/main/tunic/Tunic%20cheat%20sheet.pdf).
