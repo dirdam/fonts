@@ -20,7 +20,7 @@ Currently, the following fonts are available:
 
 ## Requests
 
-If you are a game creator or a conlang enthusiast and want to create a font for your language, you can contact me and I will give you a quote. Contact [here](https://dirdam.github.io/contact.html).
+If you are a game creator or a conlang enthusiast and want to create a font for your language, you can contact me and I will give you a quote. Contact [here](https://dirdam.github.io/contact_fonts.html).
 
 ## Support 
 
